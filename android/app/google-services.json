@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607193770022",
+    "project_id": "rnauth-app",
+    "storage_bucket": "rnauth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607193770022:android:34e417ea3631e51ed8dee7",
+        "android_client_info": {
+          "package_name": "com.rnauther"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607193770022-qm7nttsd5oqj7eqcdufv57r8b9btetcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnauther",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "607193770022-a6rap143qd67sc2l2mu626sb2ff3877g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLAZQJMhqYkFnryVc57CfNw9vS-HZRoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607193770022-a6rap143qd67sc2l2mu626sb2ff3877g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
